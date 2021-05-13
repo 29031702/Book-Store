@@ -42,7 +42,7 @@
 								}
 								else
 								{	
-									echo 'Book Store';
+									echo 'Online Secondhand Books';
 								}
 							?>
 							</h1>
@@ -53,7 +53,7 @@
 								
 								<object width="550" height="400">
 								<!--<param name="movie" value="somefilename.swf">-->
-								<embed src="HotHotSoftware3DMenu.swf" width="550" height="400">
+								<embed src="" width="550" height="400">
 								</embed>
 								</object>
 								<br><br>
